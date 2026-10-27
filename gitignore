@@ -1,0 +1,37 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual environments ---
+venv/
+.venv/
+env/
+ENV/
+
+# --- PyInstaller build output ---
+build/
+dist/
+*.spec
+*.manifest
+
+# --- Packaging ---
+*.egg-info/
+.eggs/
+
+# --- Logs & temp ---
+*.log
+*.tmp
+
+# --- IDE / editor ---
+.vscode/
+.idea/
+*.swp
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Keep the app icon (do not ignore) ---
+!cat.ico
