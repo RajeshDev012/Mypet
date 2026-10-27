@@ -1,10 +1,10 @@
-<div align="center">
+
 
 <div align="center">
 
 <div align="center">
   <pre>
-<span style="color: #ADD8E6;">
+<span>
    ██████╗ ██╗██╗  ██╗███████╗██╗         ██████╗ █████╗ ████████╗
    ██╔══██╗██║╚██╗██╔╝██╔════╝██║        ██╔════╝██╔══██╗╚══██╔══╝
 ██████╔╝██║ ╚███╔╝ █████╗  ██║        ██║     ███████║   ██║
@@ -53,7 +53,7 @@ It watches your cursor, taps along while you type, and curls up to sleep when yo
 ---
 ## 📦 Standalone Executable
 <div align="center">
-  <pre>
+  
 <span style="color: #ADD8E6;">
    ██╗ ██╗      ██████╗    ███╗   ███╗ ███████╗
   ███║███║      ╚════██╗   ████╗ ████║ ██╔═══██
