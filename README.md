@@ -52,15 +52,18 @@ It watches your cursor, taps along while you type, and curls up to sleep when yo
 
 ---
 ## 📦 Standalone Executable
-```
+<div align="center">
+  <pre>
+<span style="color: #ADD8E6;">
    ██╗ ██╗      ██████╗    ███╗   ███╗ ███████╗
   ███║███║      ╚════██╗   ████╗ ████║ ██╔═══██
 ╚██║╚██║       █████╔╝   ██╔████╔██║ ██████
    ██║ ██║      ██╔═══╝    ██║╚██╔╝██║ ██╚═══██
    ██║ ██║  ██  ███████╗   ██║ ╚═╝ ██║ ███████╝
    ╚═╝ ╚═╝      ╚══════╝   ╚═╝     ╚═╝  ╚════╝
-
- ```
+</span>
+  </pre>
+</div>
 EXE file size: Only 11.2 MB
 
 Platform: Windows
@@ -205,7 +208,9 @@ Distributed under the MIT License.
 
 <div align="center">
 
-```text
+<div align="center">
+  <pre>
+<span style="color: #ADD8E6;">
 
 ██████╗  █████╗      ██╗███████╗███████╗██╗  ██╗
 ██╔══██╗██╔══██╗     ██║██╔════╝██╔════╝██║  ██║
@@ -214,7 +219,9 @@ Distributed under the MIT License.
 ██║  ██║██║  ██║╚█████╔╝███████╗███████║██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
 
-```
+</span>
+ </pre>
+</div>
 
 **Rajesh Debnath** ([@RajeshDev012](https://github.com/RajeshDev012))
 B.Tech Computer Science & Engineering
